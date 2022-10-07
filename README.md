@@ -104,6 +104,4 @@ Unsecured Credentials
 
 
 
-MITRE Overview:
 
-Workflow:
